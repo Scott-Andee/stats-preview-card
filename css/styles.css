@@ -152,19 +152,19 @@ img{
         margin-bottom: 20px;
     }
     h1{
-        font-size: 2rem;
+        font-size: 6vw;
     }
     h2{
-        font-size: 1rem;
+        font-size: 3vw;
     }
     p{
-        font-size: 1rem;
+        font-size: 3vw;
     }
     .insights{
-        font-size: 2rem;        
+        font-size: 6vw;        
     }
     span{
-        font-size: 1rem;
+        font-size: 3vw;
     }
 }
 @media (max-width: 375px) {
