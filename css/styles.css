@@ -141,10 +141,12 @@ img{
 }
 
 @media (max-width: 600px) {
-body{
-margin: auto;
-width: 95%;
-}
+    .container{
+        margin: auto;
+        text-align: center;
+        justify-content: center;
+        max-width: 90%;
+    }
     .left-container{
         max-height: 100%;
         margin-bottom: 20px;
