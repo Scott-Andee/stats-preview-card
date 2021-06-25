@@ -169,7 +169,8 @@ img{
 }
 @media (max-width: 375px) {
     body{
-        height: 100vh
+        height: 100vh;
+        padding: 0px 0px 0px 0px;
     }
     .container{
         margin-top: 300px;
