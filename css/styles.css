@@ -174,9 +174,11 @@ img{
     .container{
         margin-top: 10px;
         width: 95%;
+        margin-bottom: 10px;
         
     }
     left-container{
-        padding: 3% 2%; 
+        
+         
     }
 }
