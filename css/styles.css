@@ -172,8 +172,9 @@ img{
         padding: 0px 0px 0px 0px;
         position: relative;
         margin: auto;
-        height: 100vh;
-        with: 100vw
+        text-align: center;
+        justify-content: center;
+        align-items: center;
         
         }
     .container{
