@@ -171,7 +171,9 @@ img{
     body{
         padding: 0px 0px 0px 0px;
         position: relative;
-        margin: auto
+        margin: auto;
+        height: 100vh;
+        with: 100vw
         
         }
     .container{
