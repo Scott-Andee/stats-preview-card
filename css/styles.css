@@ -167,3 +167,8 @@ img{
         font-size: 1rem;
     }
 }
+@media (max-width: 375px) {
+    .container{
+        margin-left: 100px;
+    }
+}
