@@ -168,6 +168,9 @@ img{
     }
 }
 @media (max-width: 375px) {
+    body{
+        padding: 5%;
+    }
     .container{
         margin-left: 100px;
     }
