@@ -170,12 +170,10 @@ img{
 @media (max-width: 375px) {
     body{
         padding: 0px 0px 0px 0px;
-        height: 100vh;
-        width: 100vw;
-    }
+        }
     .container{
         margin-top: 10px;
-        max-height: 100%;
+        width:100%
         
     }
     left-container{
