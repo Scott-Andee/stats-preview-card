@@ -171,12 +171,12 @@ img{
     body{
         padding: 0px 0px 0px 0px;
         position: relative;
+        margin: auto
         
         }
     .container{
-        margin-top: 10px;
+        margin: 10px auto;
         max-width: 100%;
-        margin-bottom: 10px;
         max-height: 100%;
         
     }
