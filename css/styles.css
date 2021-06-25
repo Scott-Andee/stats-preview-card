@@ -175,10 +175,10 @@ img{
         margin: auto;
         }
     .container{
-        margin-top: 300px;
+        margin-top: 200px;
         position: relative;
         width:100vw;
-        height: 100vh;
+        height: 130vh;
         max-height: 100%;
                
     }
