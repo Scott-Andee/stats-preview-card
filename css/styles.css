@@ -177,8 +177,7 @@ img{
         }
     .container{
         margin: 10px auto;
-        position: relative;
-        max-width: 100%;
+        max-width: 95%;
         max-height: 100%;
         
     }
